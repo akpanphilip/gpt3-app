@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-
+import logo from "./logo.svg";
+import { Article, Navbar, Feature, CTA, Brand } from "./components";
 function App() {
   return (
     <div className="App">
