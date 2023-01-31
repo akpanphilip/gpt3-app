@@ -9,7 +9,7 @@ import {
 import { CTA, Brand, Navbar } from "./components";
 import "./App.css";
 
-function App() {
+function App() { 
   return (
     <div className="App">
       <div className="gradient__bg">
@@ -21,7 +21,6 @@ function App() {
       <Features />
       <Possibility />
       <CTA />
-      <Blog />
       <Blog />
       <Footer />
     </div>
